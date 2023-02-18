@@ -1,6 +1,6 @@
 # Sudoku Backtracker
 This is a sudoku solver that uses backtracking algorithm to reach the correct
-solution.In a standard Sudoku puzzle (9x9 grid), there are 81 variables/tiles in
+solution. In a standard Sudoku puzzle (9x9 grid), there are 81 variables/tiles in
 total. Each variable is named by its row and its column, and must be assigned a
 value from 1 to 9, subject to the constraint that no two cells in the same row,
 column, or box may contain the same value. The initial configuration of sudoku is a
